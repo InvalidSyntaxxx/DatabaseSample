@@ -4,8 +4,16 @@
  * @Author: 王远昭
  * @Date: 2022-09-12 13:08:05
  * @LastEditors: 王远昭
- * @LastEditTime: 2022-09-12 22:36:52
+ * @LastEditTime: 2022-09-23 00:29:31
 -->
+
+### Start
+
+```shell
+    git clone https://github.com/InvalidSyntaxxx/DatabaseSample.git && cd DatabaseSample
+    gcc -o main main.c
+    ./main
+```
 
 ## Let's Build a Simple Database
 
