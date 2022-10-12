@@ -8,7 +8,7 @@
 -->
 ## 1. 建表
 
-将[setup.sql](#setup.sql)导入数据库进行建表
+将[setup.sql](setup.sql)导入数据库进行建表
 
 ## 2. 说明：
  
